@@ -10,7 +10,7 @@ In this project I explore a data set from Yahoo stock prices. I try to prove tha
 ### Install
 This project requires Python 3.x and the following Python libraries installed:
 
-NumPy
+* NumPy
 * Pandas
 * Matplotlib
 * Scikit-learn
