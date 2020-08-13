@@ -11,13 +11,13 @@ In this project I explore a data set from Yahoo stock prices. I try to prove tha
 ### Install
 This project requires Python 3.x and the following Python libraries installed:
 
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-pandas_datareader
-statsmodels
-yellowbrick
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* pandas_datareader
+* statsmodels
+* yellowbrick
 
 You also need to have software installed to run an iPython Notebook
 
