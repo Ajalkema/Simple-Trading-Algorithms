@@ -2,6 +2,7 @@
 
 ### Blog post
 I wrote a blog about this project which can be found here: 
+
 https://medium.com/@ja.alkema/a-random-walk-through-stock-markets-333683e1ec29
 
 ### Introduction
