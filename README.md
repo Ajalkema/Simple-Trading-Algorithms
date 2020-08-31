@@ -1,4 +1,4 @@
-# Trading-Algorithm
+# Simple-Trading-Algorithm
 
 ### Introduction
 In this project I explore a data set from Yahoo stock prices. I try to prove that stock prices are random and cannot be used to predict future stock prices.
